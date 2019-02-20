@@ -1,0 +1,6 @@
+{
+    "secret": "Very secretive secret string that is used for JWT token verification.",
+    "port": 3000,
+    "databaseNameUsers": "users",
+    "databaseNameBlacklistTokens": "blacklistTokens"
+}
